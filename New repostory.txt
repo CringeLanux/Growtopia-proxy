@@ -1,2 +1,2 @@
 Moved repo to here 
-https://github.com/CringeLanux/enet-proxy-proxy
+https://github.com/CringeLanux/enet-proxy
